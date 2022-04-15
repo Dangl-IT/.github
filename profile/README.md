@@ -16,4 +16,4 @@ We're very active in open source [on GitHub](https://github.com/GeorgDangl) and 
 
 ## Getting Started
 
-Are you a customer of Dangl**IT** GmbH? [Head over to our getting started guide[(https://www.dangl-it.com/articles/getting-started-guide-for-customers-partners/) for a quick introduction about how to use our services.
+Are you a customer of Dangl**IT** GmbH? [Head over to our getting started guide](https://www.dangl-it.com/articles/getting-started-guide-for-customers-partners/) for a quick introduction about how to use our services.
