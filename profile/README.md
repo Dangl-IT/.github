@@ -1,5 +1,7 @@
 # Dangl IT GmbH
 
+![Logo EN rectangular](https://user-images.githubusercontent.com/10274404/163625516-2027d3b8-6f72-4d79-a06a-8281cca0649b.png)
+
 [www.dangl-it.com](https://www.dangl-it.com/)
 
 DanglIT GmbH is a software solution provider with the focus on the AEC (Architecture, Engineering & Construction) industry as well as commercial wholesale customers.
