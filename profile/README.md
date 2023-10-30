@@ -4,7 +4,7 @@
 
 [www.dangl-it.com](https://www.dangl-it.com/)
 
-DanglIT GmbH is a software solution provider with the focus on the AEC (Architecture, Engineering & Construction) industry as well as commercial wholesale customers.
+Dangl**IT** GmbH is a software solution provider with the focus on the AEC (Architecture, Engineering & Construction) industry as well as commercial wholesale customers.
 
 Part of our extensive expertise centers around products for tendering and solutions for digital building models (BIM - Building Information Modelling).
 
